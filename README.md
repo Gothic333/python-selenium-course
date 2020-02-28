@@ -1,1 +1,1 @@
-Курс "Автоматизация тестирования с помощью Selenium и Python"
+Код задач для курса "Автоматизация тестирования с помощью Selenium и Python" (https://stepik.org/course/575/syllabus)
